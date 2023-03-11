@@ -1,0 +1,9 @@
+.showBanner{
+    display: none;
+}
+.App{
+    scroll-behavior: smooth;
+}
+body{
+    scroll-behavior: smooth;
+}
